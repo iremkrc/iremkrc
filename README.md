@@ -1,4 +1,4 @@
-### Hello World, İrem here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"></a>
+### Hello World, İrem here! 
 
 
 <h4 align="left">Connect with me:</h4>
